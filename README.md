@@ -1,7 +1,5 @@
 
-# Angular Fundamentals Seed
-
-> This is the seed project for the [Angular Fundamentals]
+# Angular Fundamentals 
 
 ## Project Setup and Tooling
 
