@@ -2,7 +2,7 @@
 
 # Angular Fundamentals Seed
 
-> This is the seed project for the [Angular Fundamentals](https://ultimatecourses.com/learn/angular-fundamentals) course by [Todd Motto](https://twitter.com/toddmotto).
+> This is the seed project for the [Angular Fundamentals]
 
 ## Project Setup and Tooling
 
@@ -26,9 +26,6 @@ Please make sure that you have the following installed:
 npm install -g node-sass
 ```
 
-### Project Install
-
-To grab the seed project, either Fork this repo or [click here to download](https://github.com/UltimateAngular/angular-fundamentals-seed/archive/master.zip) the `.zip` folder and extract the files wherever you like on your machine.
 
 #### Step 1: Package Manager
 
